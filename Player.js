@@ -1,6 +1,13 @@
 import { useState } from "react";
 import useSound from "use-sound"; // to handle the sounds
-import Seyi from "../assets/seyi-vibez.mp3";
+import orange from "../assets/I got orange in my vein.mp3.mp3";
+import lets from "../assets/Let's vibes.mp3
+import orange from "../assets/Orange dynasty tagalog.mp3
+import orange from "../assets/Orange for ever we ignite.mp3
+import orange from "../assets/Orange in my vein.mp3
+import pussycatgang from "../assets/Pussycatgangs in the house.mp3
+import myhome from "../assets/This is my home.mp3
+import we rise from "../assets/Together we rise - eyah.sign.mp3  
 import { AiFillPlayCircle, AiFillPauseCircle } from "react-icons/ai";
 import { BiSkipNext, BiSkipPrevious } from "react-icons/bi";
 import { IconContext } from "react-icons"; // for customizing the icons
